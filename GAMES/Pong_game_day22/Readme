@@ -1,0 +1,4 @@
+Pong Game 🏓
+A classic Pong game built with Python using the Turtle graphics module.
+The project demonstrates object-oriented programming concepts by creating classes for paddles, the ball, and the scoreboard.
+It includes keyboard controls, ball movement, collision detection, and score tracking.
