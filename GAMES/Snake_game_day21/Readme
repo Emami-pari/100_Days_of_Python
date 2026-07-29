@@ -1,0 +1,3 @@
+Snake Game 🐍
+A Python implementation of the classic Snake game 
+using Turtle graphics. It demonstrates OOP concepts, keyboard controls, movement logic, collision detection, and score management.
