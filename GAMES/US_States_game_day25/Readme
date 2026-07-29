@@ -1,0 +1,5 @@
+US States Game 🇺🇸
+
+A geography quiz game built with Python using the Turtle graphics module and Pandas library.
+The game challenges users to identify the 50 US states on a map.
+It demonstrates data handling with CSV files, working with Pandas DataFrames, file reading/writing, and graphical user interaction.
