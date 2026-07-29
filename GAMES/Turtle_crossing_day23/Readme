@@ -1,0 +1,5 @@
+Turtle Crossing 🚦🐢
+
+A Frogger-style crossing game built with Python using the Turtle graphics module.
+The project demonstrates object-oriented programming concepts by creating classes for the player, cars, and scoreboard.
+It includes player movement, random car generation, collision detection, level progression, and score tracking.
