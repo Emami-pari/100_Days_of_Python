@@ -1,8 +1,0 @@
-European Countries Guessing Game 🌍
-A Python-based geography quiz game using Turtle and Pandas.
-Users guess European countries, and correct answers are displayed on a map.
-The project demonstrates data handling, CSV processing, and graphical interaction.
-
-This project can be further updated into a Climate Data Guessing Game,
-where users can explore and guess countries based on climate-related information such as temperature, precipitation,
-and other environmental data.
